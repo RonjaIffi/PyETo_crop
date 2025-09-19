@@ -4,7 +4,7 @@ a grass reference crop using the FAO-56 Penman-Monteith and Hargreaves
 equations. The library includes numerous functions for estimating missing
 meteorological data.
 
-:copyright: (c) 2015 by Ronja Iffland.
+:copyright: (c) 2020 by Ronja Iffland.
 :license: BSD 3-Clause, see LICENSE.txt for more details.
 """
 
