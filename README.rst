@@ -6,7 +6,7 @@ PyETo_crop
 :Email: iffland@iww.uni-hannover.de
 :License: `BSD 3-Clause <http://opensource.org/licenses/BSD-3-Clause>`_
 
-*PyETo_crop* is a crop-specific extetion of the Python library PyETo (https://github.com/woodcrafty/PyETo) for calculating potential evapotranspiration.
+*PyETo_crop* is a crop-specific extention of the Python library PyETo (https://github.com/woodcrafty/PyETo) for calculating potential evapotranspiration.
 
 
 This package was developed for the application in the following paper:
