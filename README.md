@@ -6,3 +6,4 @@ Email:	iffland@iww.uni-hannover.de
 License:	BSD 3-Clause
 
 The original can be found: https://github.com/woodcrafty/PyETo
+The extention has to be implemented in the source of your project and works only in combination with PyETo.
