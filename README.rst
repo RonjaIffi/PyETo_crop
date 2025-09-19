@@ -15,6 +15,8 @@ Iffland, R., Förster, K., Westerholt, D., Pesci, M. H., & Lösken, G. (2021). R
 
 The extention has to be implemented in the source of your project and works only in combination with the package PyETo.
 
+See [fao_crop.html](docs/fao_crop.html) in the `docs`folderfor a short description of functions and relevant parameters.
+
 License
 =======
 BSD 3-Clause "New" or "Revised" License. See LICENSE.txt for details.
