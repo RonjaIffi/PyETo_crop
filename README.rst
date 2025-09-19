@@ -1,48 +1,19 @@
 =====
-PyETo
+PyETo_crop
 =====
 
-.. image:: https://travis-ci.org/woodcrafty/PyETo.png?branch=master
-    :target: https://travis-ci.org/woodcrafty/PyETo
-    :alt: Build Status
-
-.. image:: https://coveralls.io/repos/woodcrafty/PyETo/badge.png?branch=master
-    :target: https://coveralls.io/r/woodcrafty/PyETo?branch=master
-    :alt: Coverage Status
-
-:Author: `Mark Richards <http://www.abdn.ac.uk/staffnet/profiles/m.richards/>`_
-:Email: mark.l.a.richardsREMOVETHIS@gmail.com
+:Author: Ronja Iffland
+:Email: iffland@iww.uni-hannover.de
 :License: `BSD 3-Clause <http://opensource.org/licenses/BSD-3-Clause>`_
-:Status: Pre-alpha
 
-*PyETo* is a Python library for calculating reference crop evapotranspiration
-(ET\ :sub:`o`\ ), sometimes referred to as potential evapotranspiration (PET).
-The library provides numerous functions for estimating missing meteorological
-data.
+*PyETo_crop* is a crop-specific extetion of the Python library PyETo (https://github.com/woodcrafty/PyETo) for calculating potential evapotranspiration.
 
-Three methods for estimating ET\ :sub:`o`\ /PET are implemented:
-
-* FAO-56 Penman-Monteith (Allen et al, 1998)
-* Hargreaves (Hargreaves and Samani, 1982; 1985)
-* Thornthwaite (Thornthwaite, 1948)
-
-The documentation can be found at https://pyeto.readthedocs.io/en/latest/index.html
+This package was developed for the application in the following paper: Iffland, R., Förster, K., Westerholt, D., Pesci, M. H., & Lösken, G. (2021). Robust Vegetation Parameterization for Green Roofs in the EPA Stormwater Management Model (SWMM). Hydrology, 8(1), 12. https://doi.org/10.3390/hydrology8010012
 
 Installation
 ============
 
-Currently there is no installation abvailable for this package so to use it you will need to incorporate the source into your project.
-
-Versions tested
-===============
-* Python 2.7
-* Python 3.4
-* Python 3.5
-* Python 3.6
-* Python 3.7
-* Python 3.8
-* PyPy
-* PyPy3
+The extention has to be implemented in the source of your project and works only in combination with the package PyETo.
 
 License
 =======
