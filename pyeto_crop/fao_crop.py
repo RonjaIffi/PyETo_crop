@@ -1,8 +1,7 @@
 """
-Library of functions for estimating reference evapotransporation (ETo) for
-a grass reference crop using the FAO-56 Penman-Monteith and Hargreaves
-equations. The library includes numerous functions for estimating missing
-meteorological data.
+Library of functions for estimating crop-specific reference evapotransporation (ETo)
+using the FAO-56 Penman-Monteith equation. This is an extention of the Python library 
+PyETo (https://github.com/woodcrafty/PyETo).
 
 :copyright: (c) 2020 by Ronja Iffland.
 :license: BSD 3-Clause, see LICENSE.txt for more details.
